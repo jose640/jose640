@@ -1,16 +1,19 @@
-### Hi there 👋
+#Hola 👋, soy Jose Luis!
 
-<!--
-**jose640/jose640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Soy un FullStack Web Developer con Js👨🏽‍💻
 
-Here are some ideas to get you started:
+Apasionado por la programación, capaz de dar soluciones óptimas y disfruto mucho del trabajo en equipo.
+Estoy en constante aprendizaje de nuevos retos y nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades: Javascript/HTML/CSS/React/Redux/Node/Express/PostgreSQL/Oracle/SQL/Sequelize/Git
+
+Mis proyectos personales destacados:
+-Busca-Tu-Vuelo
+-Pidelo-Ya-ecommerce
+-Proyecto-Twitter
+
+Contactame:
+-WhatsApp: +573208900047
+-LinkedIn: https://www.linkedin.com/in/jose-luis-ramirez-766359131/
+-Email: ramirezjoseluis676@gmail.com
+
