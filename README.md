@@ -5,7 +5,7 @@
 Apasionado por la programación, capaz de dar soluciones óptimas y disfruto mucho del trabajo en equipo.
 Estoy en constante aprendizaje de nuevos retos y nuevas tecnologías.
 
-Habilidades: Javascript/HTML/CSS/React/Redux/Node/Express/PostgreSQL/Oracle/SQL/Sequelize/Git
+Habilidades: Javascript / HTML / CSS / React / Redux / Node / Express / PostgreSQL / Oracle / SQL / Sequelize / Git
 
 ## Mis proyectos personales destacados:
 * Busca-Tu-Vuelo
