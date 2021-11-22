@@ -1,6 +1,6 @@
 ## Hola 👋, soy Jose Luis!
 
-## Soy un FullStack Web Developer con Js👨🏽‍💻
+## FullStack Web Developer con Js👨🏽‍💻
 
 Apasionado por la programación, capaz de dar soluciones óptimas y disfruto mucho del trabajo en equipo.
 Estoy en constante aprendizaje de nuevos retos y nuevas tecnologías.
