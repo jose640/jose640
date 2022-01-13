@@ -8,9 +8,10 @@ Estoy en constante aprendizaje de nuevos retos y nuevas tecnologías.
 Habilidades: Javascript / HTML / CSS / React / Redux / Node / Express / PostgreSQL / Oracle / SQL / Sequelize / Git
 
 ## Mis proyectos personales destacados:
-* Busca-Tu-Vuelo
 * Pidelo-Ya-ecommerce
 * Proyecto-Twitter
+* Buscalo_a_tu_gusto
+* Busca-Tu-Vuelo
 
 ## Contactame:
 * WhatsApp: +573208900047
