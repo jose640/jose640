@@ -11,7 +11,9 @@ Habilidades: Javascript / HTML / CSS / React / Redux / Node / Express / PostgreS
 * Pidelo-Ya-ecommerce
 * Proyecto-Twitter
 * Buscalo_a_tu_gusto
-* Busca-Tu-Vuelo
+* Administrador_de_Pacientes
+* Control_Presupuesto
+* PELICULAS-AKELAB
 
 ## Contactame:
 * WhatsApp: +573208900047
